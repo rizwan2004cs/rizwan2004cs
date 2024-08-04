@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Rizwan</h1>
-<p align="left"> <a href="https://twitter.com/mohamma61435236" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma61435236?logo=twitter&style=for-the-badge" alt="mohamma61435236" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mohammad-rizwan-cs" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma61435236?logo=twitter&style=for-the-badge" alt="mohamma61435236" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
