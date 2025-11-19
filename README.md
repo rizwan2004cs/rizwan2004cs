@@ -13,4 +13,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwan2004cs&show_icons=true&locale=en&layout=compact" alt="rizwan2004cs" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rizwan2004cs&show_icons=true&theme=gotham" alt="rizwan2004cs" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=venkatapraneethreddy&show_icons=true&theme=gotham" alt="rizwan2004cs" />
