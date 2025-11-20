@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohammad Rizwan<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwan2004cs/)](https://www.linkedin.com/in/rizwan2004cs/)
+[![Linkedin Badge](https://img.shields.io/badge/-rizwan2004cs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwan2004cs/)](https://www.linkedin.com/in/rizwan2004cs/)
 [![Gmail Badge](https://img.shields.io/badge/-mohammad22cse@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:mohammad22cse@gmail.com)
 <p>Final year Computer Science student specializing in full-stack development with proficiency in the MERN stack, Java, and SQL.</p>
 
@@ -30,11 +30,7 @@
   
 <h3 align="left">Projects</h3>
 <a href="https://health-care-application.onrender.com">Project submissions</a>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mohamma61435236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma61435236" height="30" width="40" /></a>
-<a href="https://instagram.com/rizwan_2004_mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizwan_2004_mohammad" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
