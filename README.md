@@ -38,5 +38,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <h3>Github Stats :</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwan2004cs&theme=transparent&show_icons=true\&rank_icon=github" alt="Rizwan's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwan2004cs&theme=transparent&show_icons=true&hide=contribs\&rank_icon=github" alt="Rizwan's GitHub stats">
 </p>
