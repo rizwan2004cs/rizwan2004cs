@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Mohammad Rizwan</h1>
+<h1 align="center">Hi, I'm Mohammad Rizwan<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 <p align="left"> <a href="https://www.linkedin.com/in/rizwan2004cs" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma61435236?logo=twitter&style=for-the-badge" alt="Linkedin" /></a> </p>
 <p>Final year Computer Science student specializing in full-stack development with proficiency in the MERN stack, Java, and SQL.</p>
 
