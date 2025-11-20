@@ -41,5 +41,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwan2004cs&theme=transparent&show_icons=true)
 <span align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rizwan2004cs&show_icons=true&theme=gotham" alt="rizwan2004cs" /></span>
-[transparent_repo](https://github-readme-stats.vercel.app/api/pin/?username=rizwan2004cs&repo=github-readme-stats&cache_seconds=86400&theme=transparent)
+[transparent_repo](https://github-readme-stats.vercel.app/api/pin/?username=rizwan2004cs&repo=Health-care-application&cache_seconds=86400&theme=transparent)
 
