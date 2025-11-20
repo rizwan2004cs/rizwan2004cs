@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Rizwan</h1>
 <p align="left"> <a href="https://www.linkedin.com/in/rizwan2004cs" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma61435236?logo=twitter&style=for-the-badge" alt="Linkedin" /></a> </p>
 <p>Final year Computer Science student specializing in full-stack development with proficiency in the MERN stack, Java, and SQL.</p>
-<p>
+
   ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
   ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,8 +34,7 @@
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</p>
-
+  
 <h3 align="left">Projects</h3>
 <a href="https://health-care-application.onrender.com">Project submissions</a>
 <h3 align="left">Connect with me:</h3>
