@@ -40,4 +40,6 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwan2004cs&theme=transparent&show_icons=true)
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rizwan2004cs&show_icons=true&theme=gotham" alt="rizwan2004cs" />
+<span align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rizwan2004cs&show_icons=true&theme=gotham" alt="rizwan2004cs" /></span>
+[transparent_repo](https://github-readme-stats.vercel.app/api/pin/?username=rizwan2004cs&repo=github-readme-stats&cache_seconds=86400&theme=transparent)
+
