@@ -1,37 +1,70 @@
-<h1 align="left">Hi, I'm Mohammad Rizwan<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
+<a href="https://mohammad-rizwan.tech"><img src="assets/banner.svg" alt="Syed Mohammad Rizwan — AI engineer, Bengaluru. A message passes the guard, the first model fails, a fallback answers, and the answer is checked against the facts." width="100%"></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-rizwan2004cs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwan2004cs/)](https://www.linkedin.com/in/rizwan2004cs/)
-[![Gmail Badge](https://img.shields.io/badge/-mohammad22cse@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mohammad22cse@gmail.com)](mailto:mohammad22cse@gmail.com)
-<p>Final year Computer Science student specializing in full-stack development with proficiency in the MERN stack, Java, and SQL.</p>
+<p align="center">
+  <a href="https://mohammad-rizwan.tech"><img src="https://img.shields.io/badge/Portfolio-mohammad--rizwan.tech-171717?style=flat-square" alt="Portfolio"></a>
+  <a href="https://mohammad-rizwan.tech/agent"><img src="https://img.shields.io/badge/Ask_my_agent-live-1f7a45?style=flat-square" alt="Ask my agent"></a>
+  <a href="https://www.linkedin.com/in/rizwan2004cs"><img src="https://img.shields.io/badge/LinkedIn-rizwan2004cs-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mohammad-rizwan.tech/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-4f4d48?style=flat-square" alt="Resume"></a>
+  <a href="mailto:mohammad22cse@gmail.com"><img src="https://img.shields.io/badge/Email-mohammad22cse%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+I'm an AI engineer in Bengaluru, working as an Associate Software Engineer (R&D) at Novulis Consulting. I build AI agents that hold up in real use: every model call has a way down, answers cite their sources, and an assistant acts only after a person confirms.
 
-  
-<h3 align="left">Projects</h3>
-<a href="https://health-care-application.onrender.com">Project submissions</a>
+My portfolio has its own agent you can question, with its trace open: [mohammad-rizwan.tech/agent](https://mohammad-rizwan.tech/agent).
 
+### Selected work
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://mohammad-rizwan.tech/work/pack"><img src="https://mohammad-rizwan.tech/work/pack/opengraph-image" alt="PACK"></a>
+      <br><b>PACK</b>: seven LangGraph agents play Werewolf with a four-step model fallback, so a game never stalls. Built in a weekend at Monad Blitz Bangalore.
+      <br><a href="https://mohammad-rizwan.tech/work/pack">Write-up</a> · <a href="https://github.com/rizwan2004cs/Agent-Werewolf">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://mohammad-rizwan.tech/work/ccr"><img src="https://mohammad-rizwan.tech/work/ccr/opengraph-image" alt="CCR Compliance Advisor"></a>
+      <br><b>CCR Compliance Advisor</b>: crawled 74,975 California regulation sections; every answer cites the section it comes from.
+      <br><a href="https://mohammad-rizwan.tech/work/ccr">Write-up</a> · <a href="https://github.com/rizwan2004cs/ccr_web_crawler">Code</a> · <a href="https://ccr-compliance-agent.onrender.com/">Live</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://mohammad-rizwan.tech/work/finboom"><img src="https://mohammad-rizwan.tech/work/finboom/opengraph-image" alt="FinBoom"></a>
+      <br><b>FinBoom</b>: offline-first net-worth tracker whose assistant turns speech or text into one action and saves it only after you confirm.
+      <br><a href="https://mohammad-rizwan.tech/work/finboom">Write-up</a> · <a href="https://github.com/rizwan2004cs/finboom">Code</a> · <a href="https://finboom-cyan.vercel.app">Live</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://mohammad-rizwan.tech/work/voice"><img src="https://mohammad-rizwan.tech/work/voice/opengraph-image" alt="Ten Days of Voice Agents"></a>
+      <br><b>Ten Days of Voice Agents</b>: nine voice agents of my own in Murf AI's challenge, on LiveKit, Deepgram and Gemini.
+      <br><a href="https://mohammad-rizwan.tech/work/voice">Write-up</a> · <a href="https://github.com/rizwan2004cs/ten-days-of-voice-agents-2025">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://mohammad-rizwan.tech/work/cpl"><img src="https://mohammad-rizwan.tech/work/cpl/opengraph-image" alt="Campus Premier League"></a>
+      <br><b>Campus Premier League</b>: a live player auction for a college league, with AI commentary in Telugu.
+      <br><a href="https://mohammad-rizwan.tech/work/cpl">Write-up</a> · <a href="https://github.com/rizwan2004cs/campus-league-auction-arena">Code</a> · <a href="https://campus-league-auction-arena.vercel.app">Live</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://mohammad-rizwan.tech/work/ngo"><img src="https://mohammad-rizwan.tech/work/ngo/opengraph-image" alt="NGO Donor Matcher"></a>
+      <br><b>NGO Donor Matcher</b>: donors find verified NGOs nearby and pledge exactly what they need. Spring Boot, React, Leaflet.
+      <br><a href="https://mohammad-rizwan.tech/work/ngo">Write-up</a> · <a href="https://github.com/rizwan2004cs/NGO-Donor-Matcher-Frontend">Code</a> · <a href="https://ai-donor-matcher-frontend.vercel.app/">Live</a>
+    </td>
+  </tr>
+</table>
 
+All ten projects, with architecture diagrams: [mohammad-rizwan.tech](https://mohammad-rizwan.tech/#projects)
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,react,nextjs,fastapi,nodejs,spring,postgres,supabase,mongodb,azure,docker,githubactions,git&perline=16" alt="Python, TypeScript, JavaScript, Java, React, Next.js, FastAPI, Node.js, Spring Boot, PostgreSQL, Supabase, MongoDB, Azure, Docker, GitHub Actions, Git">
+</p>
+
+AI: LangGraph · multi-agent systems · RAG with Pinecone · tool calling (Groq, OpenAI, Gemini) · model fallback chains · voice agents (LiveKit, Deepgram, Whisper) · prompt-injection guards
+
+### Lately
+
+- **Associate Software Engineer (R&D), Novulis Consulting** since June 2026, after an R&D internship there.
+- **Won $115** at Superteam's Capture the Flag v2, a Solana security contest in Bengaluru.
+- **Built DUO** at Impact Lab Bengaluru: a 4 ft rehab companion robot that turns exercise into play.

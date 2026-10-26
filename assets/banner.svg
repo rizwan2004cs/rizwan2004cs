@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+  <title id="t">Syed Mohammad Rizwan — AI engineer, Bengaluru</title>
+  <desc id="d">A message passes the guard, the first model fails, a fallback model answers, and the answer is checked against the facts.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#b0a89b" stroke-opacity=".28"/>
+    </pattern>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .node rect { fill: #f9f8f5; stroke: #171717; }
+      .node text { font-size: 15px; fill: #171717; }
+      .packet { animation: run 6s cubic-bezier(.65,0,.35,1) infinite, tint 6s steps(1) infinite; }
+      @keyframes run {
+        0%   { transform: translate(0px, 0); opacity: 0; }
+        6%   { opacity: 1; }
+        22%  { transform: translate(150px, 0); }
+        34%  { transform: translate(300px, 0); }
+        56%  { transform: translate(300px, 0); }
+        68%  { transform: translate(450px, 0); }
+        86%  { transform: translate(608px, 0); opacity: 1; }
+        100% { transform: translate(608px, 0); opacity: 0; }
+      }
+      @keyframes tint { 0%, 33% { fill: #1f7a45; } 34%, 62% { fill: #b93a0b; } 63%, 100% { fill: #1f7a45; } }
+      .fail { animation: blink 6s steps(1) infinite; }
+      @keyframes blink { 0%, 33% { opacity: 0; } 34%, 62% { opacity: 1; } 63%, 100% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .packet, .fail { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1200" height="320" fill="#f9f8f5"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect x=".5" y=".5" width="1199" height="319" fill="none" stroke="#171717"/>
+
+  <rect x="56" y="48" width="10" height="10" fill="#1f7a45"/>
+  <text x="76" y="58" class="mono" font-size="15" fill="#6b6964">mohammad-rizwan.tech</text>
+  <text x="54" y="128" font-size="58" font-weight="600" letter-spacing="-2" fill="#171717">Syed Mohammad Rizwan</text>
+  <text x="56" y="168" font-size="24" fill="#4f4d48">AI engineer · Bengaluru · Associate Software Engineer (R&amp;D) at Novulis</text>
+  <text x="56" y="200" font-size="18" fill="#6b6964">I build AI agents that don't break.</text>
+
+  <!-- the harness, the way his site's agent runs: guard, model chain, grounding -->
+  <g transform="translate(56,236)">
+    <g class="node"><rect x="0" y="0" width="120" height="34"/><text x="60" y="22" text-anchor="middle">message</text></g>
+    <g class="node"><rect x="150" y="0" width="120" height="34"/><text x="210" y="22" text-anchor="middle">guard</text></g>
+    <g><rect x="300" y="0" width="120" height="34" fill="#f9f8f5" stroke="#b93a0b" stroke-dasharray="4 3"/><text x="360" y="22" text-anchor="middle" font-size="15" fill="#b93a0b" text-decoration="line-through">gpt-oss-120b</text></g>
+    <g><rect x="450" y="0" width="120" height="34" fill="#f9f8f5" stroke="#8a5300" stroke-dasharray="4 3"/><text x="510" y="22" text-anchor="middle" font-size="15" fill="#8a5300">fallback</text></g>
+    <g><rect x="600" y="0" width="150" height="34" fill="#171717"/><text x="675" y="22" text-anchor="middle" font-size="15" fill="#fff">grounded answer</text></g>
+    <path d="M120 17h30M270 17h30M420 17h30M570 17h30" stroke="#6b6964"/>
+    <text x="300" y="58" class="mono fail" font-size="13" fill="#b93a0b">429 rate-limited → falling back</text>
+    <rect class="packet" x="54" y="-16" width="10" height="10" fill="#1f7a45"/>
+  </g>
+
+  <text x="1144" y="292" class="mono" font-size="13" fill="#6b6964" text-anchor="end">ask my agent → mohammad-rizwan.tech/agent</text>
+</svg>
