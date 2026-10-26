@@ -27,6 +27,13 @@ My portfolio has its own agent you can question, with its trace open: [mohammad-
       <br><a href="https://mohammad-rizwan.tech/work/ccr">Write-up</a> · <a href="https://github.com/rizwan2004cs/ccr_web_crawler">Code</a> · <a href="https://ccr-compliance-agent.onrender.com/">Live</a>
     </td>
   </tr>
+</table>
+
+<details>
+<summary><b>Show 4 more projects</b>: FinBoom, Ten Days of Voice Agents, Campus Premier League, NGO Donor Matcher</summary>
+<br>
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://mohammad-rizwan.tech/work/finboom"><img src="https://mohammad-rizwan.tech/work/finboom/opengraph-image" alt="FinBoom"></a>
@@ -52,6 +59,7 @@ My portfolio has its own agent you can question, with its trace open: [mohammad-
     </td>
   </tr>
 </table>
+</details>
 
 All ten projects, with architecture diagrams: [mohammad-rizwan.tech](https://mohammad-rizwan.tech/#projects)
 
